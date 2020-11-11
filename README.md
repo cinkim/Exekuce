@@ -1,2 +1,0 @@
-# Exekuce
-správa exekucí, pohledávek
